@@ -1,4 +1,4 @@
-# Price_prediction
+#Tashkent_houses_price_prediction
 
 Toshkent turar joy va kvartira narxlari bashoratlari
 
