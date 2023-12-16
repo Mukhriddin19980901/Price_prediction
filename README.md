@@ -5,7 +5,7 @@
 
 ***Here is the changes in prices annually over the last years :***
 
-<img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/annualpricechanges.png" width="500" height="500" /> 
+<img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/annualpricechanges.png" width="800" height="500" /> 
 
 
 
