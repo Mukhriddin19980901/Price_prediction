@@ -8,6 +8,8 @@
 <img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/annualpricechanges.png" width="800" height="500" /> 
 
 
+The data shows the significant price changes depended on the law about the permenant residency and the spread of the COVID 19. Overall if the apartment is low the prices are going to be higher. The higher the floor of the house, the lower its price.In Tashkent 4-5 floor apartments are very common and it affected to the price too.
 <img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/tashkent_uy_seaborn.png" width="500" height="500" /> 
+In this [model](https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/toshkent_uylar_narxi_predictions.ipynb) I have used the Linear Regression to predict the prices.
 
 <img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/plot_price.png" width="500" height="500" /> 
