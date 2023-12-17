@@ -8,5 +8,6 @@
 <img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/annualpricechanges.png" width="800" height="500" /> 
 
 
+<img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/tashkent_uy_seaborn.png" width="500" height="500" /> 
 
-<img src="" width="500" height="500" /> 
+<img src="https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction/blob/main/imgs/plot_price.png" width="500" height="500" /> 
